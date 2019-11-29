@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) to consume a [node-API] (https://github.com/rlocatelli9/node-api).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) to consume a [Node API](https://github.com/rlocatelli9/node-api).
 
 ## Available Scripts
 
